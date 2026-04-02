@@ -12,7 +12,7 @@ This repository contains a framework to create  physiologically-constrained neur
 
 This framework provides a new tool for individualized  in-silico pre-clinical testing of new technologies and  treatment strategies for T1D management.
 
-Read More: [Pre-print](https://www.arxiv.org/pdf/2508.05705)
+Read More: [Pre-print](https://www.arxiv.org/pdf/2508.05705),[Neural Computing and Applications](https://doi.org/10.1007/s00521-026-12018-x) 
 
 ![framework](example/img/figure_DigitalTwinOverview.jpg)
 
